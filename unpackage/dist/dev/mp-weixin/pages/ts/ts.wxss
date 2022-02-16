@@ -1,0 +1,37 @@
+.bft .tp.data-v-93d25034 {
+  width: 100%;
+}
+.bft .content.data-v-93d25034 {
+  display: flex;
+}
+.bft .content .tag.data-v-93d25034 {
+  flex: 1;
+  text-align: center;
+}
+.bft .content .tag .iconfont.data-v-93d25034 {
+  font-size: 30px;
+}
+.bft .content .zu.data-v-93d25034 {
+  flex: 1;
+}
+.bft .content .zu .zuo.data-v-93d25034 {
+  float: right;
+  height: 30px;
+  width: 30px;
+}
+.bft .content .yo.data-v-93d25034 {
+  flex: 1;
+}
+.bft .content .yo .you.data-v-93d25034 {
+  float: left;
+  height: 30px;
+  width: 30px;
+}
+.bott.data-v-93d25034 {
+  width: 95%;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 5%;
+  line-height: 30px;
+}
+

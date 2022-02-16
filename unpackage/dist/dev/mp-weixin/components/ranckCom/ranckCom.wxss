@@ -1,0 +1,62 @@
+.contentbox.data-v-331fab44 {
+  width: 90%;
+  margin: 20rpx auto;
+  padding-bottom: 20rpx;
+  background-color: #fff;
+  border-radius: 30rpx;
+  overflow: hidden;
+  border: 1px solid #ccc;
+}
+.contentbox .femalecolor.data-v-331fab44 {
+  background-color: rgba(235, 195, 221) !important;
+}
+.contentbox .feico.data-v-331fab44 {
+  color: #9e658b !important;
+}
+.contentbox .ranktitle.data-v-331fab44 {
+  padding: 10rpx 0;
+  text-align: center;
+  background-color: rgba(201, 195, 236, 0.6);
+  border-radius: 0 0 50% 50%;
+}
+.contentbox .ranktitle .icon-renqizhi.data-v-331fab44 {
+  color: blue;
+}
+.contentbox .ranktitle .icon-huoyan.data-v-331fab44 {
+  color: red;
+}
+.contentbox .rankcont.data-v-331fab44 {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 20rpx;
+}
+.contentbox .rankcont .contitem.data-v-331fab44 {
+  width: 50%;
+  text-align: center;
+}
+.contentbox .rankcont .contitem .bookname.data-v-331fab44 {
+  font-size: 16px;
+  color: #635d5d;
+  padding: 20rpx 0;
+}
+.contentbox .rankcont .contitem image.data-v-331fab44 {
+  width: 40%;
+}
+.contentbox .rankcont .contitem.data-v-331fab44:first-of-type {
+  width: 100%;
+  margin: 50rpx;
+}
+.contentbox .rankcont .contitem .readnum.data-v-331fab44 {
+  font-size: 12px;
+  color: red;
+}
+.contentbox .rankcont .contitem .score.data-v-331fab44 {
+  color: #4545f3 !important;
+}
+.contentbox .more.data-v-331fab44 {
+  text-align: center;
+  font-size: 14px;
+  color: #aaa;
+  margin: 20rpx 0;
+}
+

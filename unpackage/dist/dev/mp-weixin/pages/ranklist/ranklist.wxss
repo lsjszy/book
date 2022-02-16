@@ -1,0 +1,17 @@
+.ctitle.data-v-e9178c74 {
+  height: 80rpx;
+  background-color: #fff;
+  text-align: center;
+}
+.ctitle .fixtitle.data-v-e9178c74 {
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 32rpx;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-bottom: 1px solid #fff9f99e;
+}
+

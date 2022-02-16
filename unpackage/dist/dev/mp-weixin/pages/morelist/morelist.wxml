@@ -1,0 +1,1 @@
+<view><cell vue-id="1c5f65e0-1" list="{{populars}}" bind:__l="__l"></cell><view class="more"><block wx:if="{{!flag}}"><uni-load-more vue-id="1c5f65e0-2" status="loading" bind:__l="__l"></uni-load-more></block><block wx:else><uni-load-more vue-id="1c5f65e0-3" status="nomore" bind:__l="__l"></uni-load-more></block></view></view>

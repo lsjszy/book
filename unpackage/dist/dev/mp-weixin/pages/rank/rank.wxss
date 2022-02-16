@@ -1,0 +1,11 @@
+.posi.data-v-16e4b086 {
+  background-color: #e3dae9;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 99;
+}
+.content.data-v-16e4b086 {
+  padding-top: 60rpx;
+}
+
